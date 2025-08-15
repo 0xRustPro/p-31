@@ -80,6 +80,5 @@ Migrate tx(first buy on pumpswap): https://solscan.io/tx/3cfWwqFTbP7bz4BPqky9guJ
 
 ## Contact
 
-* TG: https://t.me/microgift88
-* Discord: https://discord.com/users/1074514238325927956
-* Email: microgift28@gmail.com
+* TG: https://t.me/Rust0x_726
+
